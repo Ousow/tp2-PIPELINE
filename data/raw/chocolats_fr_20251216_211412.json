@@ -1,0 +1,77 @@
+[
+  {
+    "brands": "Dolca,Nestlé",
+    "categories": "Botanas,Snacks dulces,Cacao y sus productos,Chocolates,Chocolates negros,en:Cacao et dérivés,en:Chocolats,en:Chocolats noirs,en:Snacks sucrés",
+    "code": "7613036723671",
+    "energy_100g": 2152,
+    "fat_100g": "27.2",
+    "nova_group": 4,
+    "nutriscore_grade": "e",
+    "product_name": "Dolca chocolate negro",
+    "proteins_100g": "5.7",
+    "salt_100g": "0.01",
+    "sugars_100g": "54.6"
+  },
+  {
+    "brands": "Choceur",
+    "categories": "Snacks, Cacao et dérivés, Chocolats, Chocolats aux noisettes, Snacks sucrés, en:chocolates-with-hazelnuts",
+    "code": "4099200057323",
+    "energy_100g": 2406,
+    "fat_100g": 39,
+    "nutriscore_grade": "e",
+    "product_name": "Haselnuss Schokolade",
+    "proteins_100g": "8.4",
+    "salt_100g": "0.25",
+    "sugars_100g": 41
+  },
+  {
+    "brands": "Rapunzel",
+    "categories": "Snacks, Snacks sucrés, Cacao et dérivés, Confiseries, Barres, Confiseries chocolatées, Chocolats, Barres chocolatées",
+    "code": "4006040412892",
+    "energy_100g": 2602,
+    "fat_100g": 52,
+    "nutriscore_grade": "e",
+    "product_name": "faire Schokolade 85% Kakao",
+    "proteins_100g": 11,
+    "salt_100g": "0.25",
+    "sugars_100g": 17
+  },
+  {
+    "brands": "Coop,Karma",
+    "categories": "Snacks, Cacao et dérivés, Chocolats, Chocolats au lait végétal, Snacks sucrés, en:chocolates",
+    "code": "7627535092121",
+    "energy_100g": 2477,
+    "fat_100g": 41,
+    "nutriscore_grade": "e",
+    "product_name": "",
+    "proteins_100g": "7.9",
+    "salt_100g": 0,
+    "sugars_100g": 40
+  },
+  {
+    "brands": "Venchi",
+    "categories": "Snacks, Snacks sucrés, Cacao et dérivés, Chocolats, Confectioneries, Chocolate candies",
+    "code": "8002996303129",
+    "energy_100g": 628,
+    "fat_100g": 11,
+    "nova_group": 4,
+    "nutriscore_grade": "c",
+    "product_name": "Nocciolata Dark Chocolate With Whole Hazelnuts, Dark",
+    "proteins_100g": 2,
+    "salt_100g": 0,
+    "sugars_100g": 8
+  },
+  {
+    "brands": "Le FOURGON",
+    "categories": "Pistol chocolat, Snacks, en:Cacao et dérivés, en:Chocolats, en:Chocolats noirs, en:Snacks sucrés",
+    "code": "3760377561241",
+    "energy_100g": 2329,
+    "fat_100g": 38,
+    "nova_group": 4,
+    "nutriscore_grade": "e",
+    "product_name": "Pistole chocolat noir",
+    "proteins_100g": "7.5",
+    "salt_100g": "0.01",
+    "sugars_100g": 39
+  }
+]

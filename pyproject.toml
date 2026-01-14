@@ -1,0 +1,18 @@
+[project]
+name = "tp2-pipeline"
+version = "0.1.0"
+description = "TP Pipeline Data - Exploration et IA"
+requires-python = ">=3.11"
+
+dependencies = [
+    "pandas",
+    "duckdb",
+    "matplotlib",
+    "plotly",
+    "litellm",
+    "python-dotenv",
+    "httpx>=0.28.1",
+    "tenacity>=9.1.2",
+    "tqdm>=4.67.1",
+    "pyarrow>=22.0.0",
+]
