@@ -44,7 +44,7 @@ tp2-PIPELINE/
 1. Cloner le projet
 
 ```bash
-git clone <url_du_projet>
+git clone https://github.com/Ousow/tp2-PIPELINE
 cd tp2-PIPELINE
 ```
 
